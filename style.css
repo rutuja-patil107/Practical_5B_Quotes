@@ -1,0 +1,9 @@
+body{
+    background-color: #00284d;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    border: 1px solid white;
+    border-width: thin;
+  }
